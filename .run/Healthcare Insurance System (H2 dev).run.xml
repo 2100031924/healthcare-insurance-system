@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Healthcare Insurance System (H2 dev)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" value="dev" />
+    <module name="healthcare-insurance-system" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.healthcare.claimsystem.HealthcareInsuranceSystemApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
